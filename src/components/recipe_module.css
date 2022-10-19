@@ -1,0 +1,19 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(129, 126, 126);
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-image: linear-gradient(to right, 
+        #e410afcb 0%, #9eb39f 0%, #899789 0%, 
+        #e8c58b 30%, #a7ac87 64%, #6ab8b9 100%);
+    align-items: center;
+    min-width: 40%;
+    font-family: 'Times New Roman', Times, serif;   
+}
+  
+.image{
+    border-radius: 10px;
+    margin:0px 0px 20px 0px;
+}
